@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SudhanvaShashidhara
-- 👀 I’m interested in Svelte, Svelte KIT, React, Node Js
-- 🌱 I’m currently learning Svelte KIT
+- 👀 I’m interested in Product, UX, JavaScript
+- 🌱 I’m currently learning Python
 - 📫 Reach me at sudhanvashashidhara@gmail.com
 
 <!---
